@@ -58,7 +58,7 @@ books.push(
     'Deepak Gupta',
     'Bhavya Books',
     45,
-    'https://m.media-amazon.com/images/I/51o9ni24cXL._AC_UF1000,1000_QL80_.jpg'
+    'https://m.media-amazon.com/images/I/51o9ni24cXL.jpg'
   )
 );
 books.push(
@@ -68,7 +68,7 @@ books.push(
     'R. K. Bansal',
     'Laxmi Publications',
     35,
-    'https://static.kopykitab.com/image/cache/data/laxmi-publications/lax473-280x422.jpg'
+    'https://m.media-amazon.com/images/I/91kQpEVppxL._SL1500_.jpg'
   )
 );
 
